@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m152_WikiPage_FE/home/static/css/main.53a541ce.css",
+    "main.js": "/m152_WikiPage_FE/home/static/js/main.0f4fdc7a.js",
+    "static/js/787.633e3a4c.chunk.js": "/m152_WikiPage_FE/home/static/js/787.633e3a4c.chunk.js",
+    "index.html": "/m152_WikiPage_FE/home/index.html",
+    "main.53a541ce.css.map": "/m152_WikiPage_FE/home/static/css/main.53a541ce.css.map",
+    "main.0f4fdc7a.js.map": "/m152_WikiPage_FE/home/static/js/main.0f4fdc7a.js.map",
+    "787.633e3a4c.chunk.js.map": "/m152_WikiPage_FE/home/static/js/787.633e3a4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a541ce.css",
+    "static/js/main.0f4fdc7a.js"
+  ]
+}
