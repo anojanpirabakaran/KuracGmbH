@@ -19,7 +19,7 @@ const Router = () => {
   return (
     <Routes>
       <Route
-        path={"/"}
+        path={"/home"}
         element={<HomePage />}
       />
       <Route
